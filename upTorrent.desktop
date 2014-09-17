@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=upTorrent -f %u
+GenericName[en_US]=
+GenericName=
+Icon=/usr/share/icons/bittorrent.png
+MimeType=application/x-bittorrent;
+Name[en_US]=upTorrent
+Name=upTorrent
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
