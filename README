@@ -11,6 +11,8 @@ DEPENDENCIES
 
 INSTALATION
 
+Do it with `install.sh` script or following the next steps:
+
 1) Extract/Move files of upTorrent to /usr/local/share/upTorrent
 2) If you are in a Linux Debian based distro - Install libnotify: sudo apt-get install libnotify-bin
    If you are in MacOSX - Install growlnotify that came with growl installer in optiontal section

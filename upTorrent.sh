@@ -2,10 +2,7 @@
 
 # UpTorrent - Author Jorge Davison (a.k.a harley) jdavisonc at gmail dot com
 # =========
-# Automatic uploader for torrent files. 
-# The torrents files will be upload to a server via FTP, and in theory will be a 
-# deamon scanning this directory and should load the torrent file in the torrent
-# downloader (uTorrent, rTorrent, Azureus, etc).
+# Automatic uploader for torrent files with Seedboxer API.
 
 ICON=/usr/share/icons/bittorrent.png
 GROWL_NOTIF=/usr/local/bin/growlnotify
